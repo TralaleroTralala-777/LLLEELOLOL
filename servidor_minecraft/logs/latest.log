@@ -287,3 +287,13 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [03:15:30] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/927, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
 [03:15:56] [Server thread/INFO]: El_Abuelo has made the advancement [I am Iron M...]
 [03:15:56] [Server thread/INFO]: El_Abuelo has made the advancement [Acquire Hardware]
+[03:18:04] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/1067, l='ServerLevel[Oneblock Original v3]', x=0.09, y=62.00, z=3.05] died, message: 'Mysterious Trader 🧪 was slain by El_Abuelo'
+[03:18:04] [Server thread/INFO]: El_Abuelo has made the advancement [Impostor]
+[03:18:04] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/1067, l='ServerLevel[Oneblock Original v3]', x=0.09, y=62.00, z=3.05] died: Mysterious Trader 🧪 was slain by El_Abuelo
+[03:19:23] [Server thread/INFO]: El_Abuelo has made the advancement [Getting an Upgrade]
+[03:21:11] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/1207, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[03:21:11] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/1207, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[03:22:51] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/1353, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[03:22:51] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/1353, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[03:23:10] [Server thread/INFO]: Miller2014 has made the advancement [Step 5]
+[03:23:10] [Server thread/INFO]: El_Abuelo has made the advancement [Step 5]

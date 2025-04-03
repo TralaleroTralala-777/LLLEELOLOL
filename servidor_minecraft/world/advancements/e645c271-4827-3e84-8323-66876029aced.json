@@ -7799,6 +7799,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-03 03:15:56 +0000"
+    },
+    "done": true
+  },
   "obs:ob/coal": {
     "criteria": {
       "requirement": "2025-04-03 03:11:43 +0000"
@@ -7817,9 +7823,39 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-03 03:19:23 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/villager": {
+    "criteria": {
+      "requirement": "2025-04-03 03:18:04 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/iron": {
+    "criteria": {
+      "requirement": "2025-04-03 03:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-03 03:18:04 +0000"
+    },
+    "done": true
+  },
   "obs:phases/phase_4": {
     "criteria": {
       "requirement": "2025-04-03 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_5": {
+    "criteria": {
+      "requirement": "2025-04-03 03:23:10 +0000"
     },
     "done": true
   },

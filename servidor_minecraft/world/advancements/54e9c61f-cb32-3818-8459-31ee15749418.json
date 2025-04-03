@@ -7817,6 +7817,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_5": {
+    "criteria": {
+      "requirement": "2025-04-03 03:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-03 03:00:33 +0000"
