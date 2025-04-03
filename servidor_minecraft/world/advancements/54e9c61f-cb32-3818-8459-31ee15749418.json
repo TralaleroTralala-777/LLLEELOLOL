@@ -7787,15 +7787,33 @@
     },
     "done": true
   },
+  "obs:ob/coal": {
+    "criteria": {
+      "requirement": "2025-04-03 03:09:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-03 03:03:21 +0000"
     },
     "done": true
   },
+  "obs:ob/furnace": {
+    "criteria": {
+      "requirement": "2025-04-03 03:11:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-03 03:00:47 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_4": {
+    "criteria": {
+      "requirement": "2025-04-03 03:08:56 +0000"
     },
     "done": true
   },
