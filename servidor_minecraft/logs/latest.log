@@ -226,3 +226,21 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02:39:18] [Server thread/INFO]: Miller2014 has made the advancement [Step 1]
 [02:43:03] [Server thread/INFO]: El_Abuelo has made the advancement [Step 2]
 [02:43:03] [Server thread/INFO]: Miller2014 has made the advancement [Step 2]
+[02:46:29] [Server thread/INFO]: Miller2014 has made the advancement [Woodlands]
+[02:46:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8990ms or 179 ticks behind
+[02:46:53] [Server thread/INFO]: El_Abuelo has made the advancement [Woodlands]
+[02:47:17] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/151, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[02:47:17] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/151, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[02:47:35] [Server thread/INFO]: El_Abuelo has made the advancement [Step 3]
+[02:47:35] [Server thread/INFO]: Miller2014 has made the advancement [Step 3]
+[02:47:56] [Server thread/INFO]: El_Abuelo has made the advancement [Cobblemania]
+[02:47:56] [Server thread/INFO]: El_Abuelo has made the advancement [Stone Age]
+[02:48:10] [Server thread/INFO]: Miller2014 has made the advancement [Cobblemania]
+[02:48:10] [Server thread/INFO]: Miller2014 has made the advancement [Stone Age]
+[02:51:53] [Server thread/INFO]: El_Abuelo has made the advancement [#PlantATree]
+[02:54:53] [Server thread/INFO]: Miller2014 lost connection: Disconnected
+[02:54:53] [Server thread/INFO]: Miller2014 left the game
+[02:55:04] [Server thread/INFO]: Miller2014[/172.26.177.89:60021] logged in with entity id 375 at (1.8886763572890117, 63.0, 0.9655930205733338)
+[02:55:04] [Server thread/INFO]: Miller2014 joined the game
+[02:55:11] [Server thread/INFO]: Miller2014 lost connection: Disconnected
+[02:55:11] [Server thread/INFO]: Miller2014 left the game
