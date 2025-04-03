@@ -244,3 +244,29 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02:55:04] [Server thread/INFO]: Miller2014 joined the game
 [02:55:11] [Server thread/INFO]: Miller2014 lost connection: Disconnected
 [02:55:11] [Server thread/INFO]: Miller2014 left the game
+[02:57:54] [Server thread/INFO]: Miller2014[/172.26.177.89:60261] logged in with entity id 376 at (-0.03727871062305811, 62.0, 0.6594880470420246)
+[02:57:54] [Server thread/INFO]: Miller2014 joined the game
+[02:59:16] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/284, l='ServerLevel[Oneblock Original v3]', x=4.70, y=-232.09, z=0.78] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[02:59:16] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/284, l='ServerLevel[Oneblock Original v3]', x=4.70, y=-232.09, z=0.78] died: Mysterious Trader 🧪 fell out of the world
+[02:59:48] [Server thread/INFO]: Made Miller a server operator
+[02:59:51] [Server thread/INFO]: Made Miller2014 a server operator
+[02:59:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1, y=60, z=-3} jd{x=9, y=61, z=0}
+[03:00:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1, y=60, z=-3} jd{x=6, y=60, z=0}
+[03:00:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1, y=60, z=-3} jd{x=3, y=60, z=-1}
+[03:00:10] [Server thread/INFO]: [Miller2014: Applied effect Haste to Miller2014]
+[03:00:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1, y=60, z=-3} jd{x=2, y=61, z=0}
+[03:00:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1, y=60, z=-3} jd{x=2, y=61, z=0}
+[03:00:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1, y=60, z=-3} jd{x=9, y=61, z=0}
+[03:00:37] [Server thread/INFO]: El_Abuelo fell out of the world
+[03:00:44] [Server thread/INFO]: El_Abuelo lost connection: Disconnected
+[03:00:44] [Server thread/INFO]: El_Abuelo left the game
+[03:00:47] [Server thread/INFO]: Miller2014 has made the advancement [Getting an Upgrade]
+[03:00:57] [Server thread/INFO]: El_Abuelo[/172.26.140.170:51069] logged in with entity id 420 at (6.195936716660838, 60.5, 0.32425577195464866)
+[03:00:57] [Server thread/INFO]: El_Abuelo joined the game
+[03:01:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=9, y=61, z=0}
+[03:01:21] [Server thread/INFO]: [Miller2014: Made El_Abuelo a server operator]
+[03:02:08] [Server thread/INFO]: [Miller2014: Applied effect Haste to El_Abuelo]
+[03:03:21] [Server thread/INFO]: Miller2014 has made the advancement [What a Deal!]
+[03:04:51] [Server thread/INFO]: Villager cmk['Mysterious Trader 🧪'/458, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died, message: 'Mysterious Trader 🧪 fell out of the world'
+[03:04:51] [Server thread/INFO]: Named entity cmk['Mysterious Trader 🧪'/458, l='ServerLevel[Oneblock Original v3]', x=0.50, y=-1048.16, z=0.50] died: Mysterious Trader 🧪 fell out of the world
+[03:05:13] [Server thread/INFO]: El_Abuelo has made the advancement [What a Deal!]

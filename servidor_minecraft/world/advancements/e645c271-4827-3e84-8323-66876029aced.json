@@ -1103,12 +1103,6 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-04-03 02:47:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-03 02:35:57 +0000"
@@ -2360,12 +2354,6 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_the_recipe": "2025-04-03 02:35:57 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/root": {
-    "criteria": {
-      "requirement": "2025-04-03 02:36:09 +0000"
     },
     "done": true
   },
@@ -3671,12 +3659,6 @@
     },
     "done": true
   },
-  "obs:ob/plant": {
-    "criteria": {
-      "requirement": "2025-04-03 02:51:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_the_recipe": "2025-04-03 02:35:57 +0000"
@@ -4559,12 +4541,6 @@
     },
     "done": true
   },
-  "obs:ob/void": {
-    "criteria": {
-      "requirement": "2025-04-03 02:36:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-03 02:35:57 +0000"
@@ -5201,12 +5177,6 @@
     },
     "done": true
   },
-  "obs:ob/sapling": {
-    "criteria": {
-      "requirement": "2025-04-03 02:46:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-03 02:35:57 +0000"
@@ -5402,12 +5372,6 @@
   "minecraft:recipes/building_blocks/cut_copper_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-03 02:35:57 +0000"
-    },
-    "done": true
-  },
-  "obs:ob/cobblemania": {
-    "criteria": {
-      "requirement": "2025-04-03 02:47:56 +0000"
     },
     "done": true
   },
@@ -6797,24 +6761,6 @@
     },
     "done": true
   },
-  "obs:phases/phase_1": {
-    "criteria": {
-      "requirement": "2025-04-03 02:39:18 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_2": {
-    "criteria": {
-      "requirement": "2025-04-03 02:43:03 +0000"
-    },
-    "done": true
-  },
-  "obs:phases/phase_3": {
-    "criteria": {
-      "requirement": "2025-04-03 02:47:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-03 02:35:57 +0000"
@@ -7529,12 +7475,6 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-04-03 02:45:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2025-04-03 02:35:57 +0000"
@@ -7796,6 +7736,72 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_the_recipe": "2025-04-03 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/root": {
+    "criteria": {
+      "requirement": "2025-04-03 02:36:09 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/void": {
+    "criteria": {
+      "requirement": "2025-04-03 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_1": {
+    "criteria": {
+      "requirement": "2025-04-03 02:39:18 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_2": {
+    "criteria": {
+      "requirement": "2025-04-03 02:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-03 02:45:09 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/sapling": {
+    "criteria": {
+      "requirement": "2025-04-03 02:46:53 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_3": {
+    "criteria": {
+      "requirement": "2025-04-03 02:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-03 02:47:56 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "requirement": "2025-04-03 02:47:56 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/plant": {
+    "criteria": {
+      "requirement": "2025-04-03 02:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-03 03:05:13 +0000"
     },
     "done": true
   },
